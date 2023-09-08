@@ -7,7 +7,7 @@
   <br/>
 
   <h3><b>Space_TravellersHub</b></h3>
-  <p>This repo will be a react website to be used for spacex, its based on the project requirements by microverse </p>
+  <p>In this task, we worked with the real live data from the SpaceX API. Our task was to build a web application for a company that provides commercial and scientific space travel services. The application allows users to book rockets,dragons and join selected space missions. </p>
 
 </div>
 
