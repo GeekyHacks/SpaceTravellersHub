@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/SpaceXHub/static/css/main.f8e8e9b2.css",
+    "main.js": "/SpaceXHub/static/js/main.b65ada0f.js",
+    "static/media/planet.png": "/SpaceXHub/static/media/planet.3f6fb2742f28651730c0.png",
+    "index.html": "/SpaceXHub/index.html",
+    "main.f8e8e9b2.css.map": "/SpaceXHub/static/css/main.f8e8e9b2.css.map",
+    "main.b65ada0f.js.map": "/SpaceXHub/static/js/main.b65ada0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8e8e9b2.css",
+    "static/js/main.b65ada0f.js"
+  ]
+}
