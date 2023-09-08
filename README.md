@@ -1,21 +1,21 @@
-# Space_TravellersHub
+# SpaceTravellersHub
 
 <a name="readme-top"></a>
 
 <div align="center">
-
+<img src="./src/Assets/images/welcometomyGIthub.png">
   <br/>
 
-  <h3><b>Space_TravellersHub</b></h3>
+  <h3><b>SpaceTravellersHub</b></h3>
   <p>In this task, we worked with the real live data from the SpaceX API. Our task was to build a web application for a company that provides commercial and scientific space travel services. The application allows users to book rockets,dragons and join selected space missions. </p>
 
 </div>
 
 # 📗 Table of Contents
 
-- [Space_TravellersHub](#Space_TravellersHub)
+- [SpaceTravellersHub](#SpaceTravellersHub)
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Space_TravellersHub< ](#Space_TravellersHub)
+- [📖 SpaceTravellersHub< ](#SpaceTravellersHub)
 - [🚀 Live Demo ](#-live-demo-)
   - [🛠 Built With HTML, CSS and JavaScript](#-built-with-html-css-and-javascript)
     - [Tech Stack ](#tech-stack-)
@@ -33,9 +33,9 @@
   - [❓ FAQ ](#-faq-)
   - [📝 License ](#-license-)
 
-# 📖 Space_TravellersHub< <a name="about-project"></a>
+# 📖 SpaceTravellersHub< <a name="about-project"></a>
 
-**Space_TravellersHub<e**
+**SpaceTravellersHub<e**
 In this project I will be making a calculator app using react
 
 ## 🚀 Live Demo <a name="live-demo"></a>
@@ -68,7 +68,7 @@ In this project I will be making a calculator app using react
 - [Eslint](https://eslint.org/)
 - [stylelint](https://stylelint.io/)
 - [JSX](https://legacy.reactjs.org/docs/introducing-jsx.html)
-- [vite](https://vitejs.dev/guide/)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -80,7 +80,7 @@ To get a local copy up and running, follow these steps:
 
 - Open your Terminal in your VSCode.
 - Navigate to the desired directory[folder] to which you want to clone the repository to
-- [Copy & Paste] git clone you find in the code button https://github.com/fatmahussein/space-travellers-hub.git
+- [Copy & Paste] git clone you find in the code button https://github.com/GeekyHacks/SpaceTravellersHub.git
 
 ### Prerequisites
 
@@ -89,19 +89,19 @@ In order to run this project you need:
 - General Understanding of HTML & CSS
 - basic Knowledge of Git Commands
 - basic Knowledge of the Terminal Commands
-- General Understanding of [bundling](https://youtu.be/5IG4UmULyoA) and [webpack](https://youtu.be/IZGNcSuwBZs)
+
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-- git clone https://github.com/fatmahussein/space-travellers-hub.git
+- git clone https://github.com/GeekyHacks/SpaceTravellersHub.git
 
 Example commands:
 
 ```sh
   cd my-folder
-  git clone https://github.com/fatmahussein/space-travellers-hub.git
+  git clone https://github.com/GeekyHacks/SpaceTravellersHub.git
 
 ```
 
@@ -133,11 +133,6 @@ Must-Install-Project-with-the-Following-Programmes:
 - Twitter: [Geekydart](https://twitter.com/GeekyDart)
 - LinkedIn: [Abdullah Nasser](https://www.linkedin.com/in/abdullah-nasser-711625268/)
 
-👤 **Fatuma Hussein**
-
-- GitHub: [@fatmahussein](https://github.com/fatmahussein)
-- Twitter: [@FatmaHussein200](https://twitter.com/@FatmaHussein200)
-- LinkedIn: [FatumaHussein](https://www.linkedin.com/in/fatuma-hussein-48149917b)
 
 ## 🔭 Future Features <a name="future-features"></a>
 
@@ -149,7 +144,7 @@ Must-Install-Project-with-the-Following-Programmes:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/fatmahussein/space-travellers-hub/issues).
+Feel free to check the [issues page](https://github.com/GeekyHacks/SpaceTravellersHub.git/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -163,11 +158,11 @@ people.
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank...
- 
+
 - Microverse Review Team
 - Microverse Community in Slack
 - my Mentor @Strangeal
-- my coding partner @fatmahussein @firepicaso@GeekyHacks
+- my coding partner @fatmahussein @firepicaso
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
