@@ -40,9 +40,9 @@ const MissionCard = ({ props }) => {
 MissionCard.propTypes = {
   props: PropTypes.shape({
   }).isRequired,
-  name: PropTypes.string.isRequired,
-  description: PropTypes.string.isRequired,
-  reserved: PropTypes.bool.isRequired,
-  id: PropTypes.string.isRequired,
+  name: PropTypes.string,
+  description: PropTypes.string,
+  reserved: PropTypes.bool,
+  id: PropTypes.string,
 };
 export default MissionCard;

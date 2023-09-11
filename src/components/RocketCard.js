@@ -42,7 +42,7 @@ function RocketCard({ rockets }) {
 RocketCard.propTypes = {
   rockets: PropTypes.arrayOf(
     PropTypes.shape({
-      id: PropTypes.string.isRequired,
+      id: PropTypes.string,
       name: PropTypes.string.isRequired,
       image: PropTypes.string.isRequired,
       description: PropTypes.string.isRequired,

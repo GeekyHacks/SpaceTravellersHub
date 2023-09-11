@@ -12,9 +12,9 @@ function App() {
     <>
       <NavBar />
       <Routes>
-        <Route path="/" element={<Rocket />} />
-        <Route className="Missions" path="/missions" element={<Missions />} />
-        <Route className="Dragons" path="/Dragons" element={<Dragons />} />
+        <Route path="/SpaceTravellersHub/" element={<Rocket />} />
+        <Route className="Missions" path="/SpaceTravellersHub/missions" element={<Missions />} />
+        <Route className="Dragons" path="/SpaceTravellersHub/Dragons" element={<Dragons />} />
         <Route path="/MyProfile" element={<MyProfile />} />
       </Routes>
     </>
