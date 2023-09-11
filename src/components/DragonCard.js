@@ -46,11 +46,11 @@ function DragonCard({ dragons }) {
 DragonCard.propTypes = {
   dragons: PropTypes.arrayOf(
     PropTypes.shape({
-      id: PropTypes.string,
-      name: PropTypes.string,
-      image: PropTypes.string,
-      type: PropTypes.string,
-      reserved: PropTypes.bool,
+      id: PropTypes.string.isRequired,
+      name: PropTypes.string.isRequired,
+      image: PropTypes.string.isRequired,
+      type: PropTypes.string.isRequired,
+      reserved: PropTypes.bool.isRequired,
     }),
   ).isRequired,
 };
